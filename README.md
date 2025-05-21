@@ -1,3 +1,6 @@
+admin login
+username: admin
+password:pass123
 # 🧑‍💼 Employee Management System
 
 A simple and efficient web-based application for managing employee records. This system allows administrators to add, update, delete, and view employee information in a secure and organized way.
